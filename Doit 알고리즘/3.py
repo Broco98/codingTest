@@ -1,6 +1,5 @@
-# 백준 11659번
+# 백준 11659
 
-# 이거 없으면 시간 초과뜸 ㅋㅋ
 import sys
 input = sys.stdin.readline
 
